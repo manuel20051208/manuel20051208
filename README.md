@@ -32,11 +32,3 @@ I'm passionate about software development and continuous learning. I enjoy build
 * Collections Framework
 * Authentication (JWT)
 * Authorization and Security Filters
-
-## Goals
-
-* Become a Backend Developer
-* Master the Spring Ecosystem
-* Improve Software Architecture Skills
-* Strengthen Database Knowledge
-* Continue Improving My English
