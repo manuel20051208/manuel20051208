@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Manuel Ramos 👋
 
-<!--
-**manuel20051208/manuel20051208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm passionate about software development and continuous learning. I enjoy building applications with Java and exploring modern backend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies and Skills
+
+| Technology      | Level        |
+| --------------- | ------------ |
+| Java            | Intermediate |
+| Maven           | Basic        |
+| Git             | Intermediate |
+| Spring Boot     | Intermediate |
+| Spring Security | Basic        |
+| SQL             | Learning     |
+
+## Core Concepts
+
+* Object-Oriented Programming (OOP)
+* Inheritance
+* Polymorphism
+* Interfaces
+* Exception Handling
+* Collections Framework
+* Authentication (JWT)
+* Authorization and Security Filters
+
+## Currently Learning
+
+* Spring Security
+* Advanced SQL
+* Threads (Virtual and Platform)
+* English (Target: B2)
+
+## Goals
+
+* Become a Backend Developer
+* Master the Spring Ecosystem
+* Improve Software Architecture Skills
+* Strengthen Database Knowledge
+* Continue Improving My English
