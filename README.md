@@ -12,7 +12,7 @@
 
 </div>
 
-## 👋 About me
+## About me
 
 ```text
 manuel_ramos  |  Java backend developer
@@ -20,35 +20,35 @@ manuel_ramos  |  Java backend developer
 
 Passionate about software development and continuous learning. I build applications with Java and I'm exploring modern backend technologies.
 
-- 🔭 Currently building backend projects with **Java + Spring Boot**
-- 🌱 Learning **Spring Security**, **advanced SQL**, **NoSQL** and **threads**
-- 🎯 Goal: write clean, well-tested and maintainable code
-- ☕ Always open to learning something new
+- Currently building backend projects with **Java + Spring Boot**
+- Learning **Spring Security**, **advanced SQL**, **NoSQL** and **threads**
+- Goal: write clean, well-tested and maintainable code
+- Always open to learning something new
 
-## 📚 Currently learning
+## Currently learning
 
 | Topic | Focus | Status |
 | ----- | ----- | ------ |
-| Spring Security | Authentication & authorization | 🔄 In progress |
-| Advanced SQL | Queries & optimization | 🔄 In progress |
-| NoSQL | Document databases | 🔄 In progress |
-| Threads | Virtual + platform threads | 🔄 In progress |
-| English | B1+ → B2 | 🔄 In progress |
+| Spring Security | Authentication & authorization | In progress |
+| Advanced SQL | Queries & optimization | In progress |
+| NoSQL | Document databases | In progress |
+| Threads | Virtual + platform threads | In progress |
+| English | B1+ → B2 | In progress |
 
-## 🛠️ Skill levels
+## Skill levels
 
 | Skill | Level | Progress |
 | ----- | ----- | -------- |
 | Java | Intermediate | ▰▰▰▱▱ |
 | Spring Boot | Intermediate | ▰▰▰▱▱ |
+| Spring Security | Intermediate | ▰▰▰▱▱ |
+| SQL | Intermediate | ▰▰▰▱▱ |
 | Git | Intermediate | ▰▰▰▱▱ |
 | Maven | Basic | ▰▰▱▱▱ |
-| Spring Security | Basic | ▰▰▱▱▱ |
 | Docker | Basic | ▰▰▱▱▱ |
 | Testing | Basic | ▰▰▱▱▱ |
-| SQL | Beginner | ▰▱▱▱▱ |
 
-## 💡 Core concepts
+## Core concepts
 
 ![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-F89820?style=for-the-badge)
 ![AOP](https://img.shields.io/badge/Aspect--Oriented%20Programming%20%28AOP%29-6DB33F?style=for-the-badge)
@@ -56,19 +56,19 @@ Passionate about software development and continuous learning. I build applicati
 ![DS](https://img.shields.io/badge/Data%20Structures-A78BFA?style=for-the-badge)
 ![Logic](https://img.shields.io/badge/Problem%20Solving%20%26%20Logic-F05032?style=for-the-badge)
 
-## 📫 Let's connect
+## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 
 ---
 
-<sub>Thanks for stopping by. Let's build something great together. ☕</sub>
+<sub>Thanks for stopping by. Let's build something great together.</sub>
 
 <!--
 Uncomment this when you have projects to show:
 
-## 🚀 Featured projects
+## Featured projects
 
 | Project | Description | Stack |
 | ------- | ----------- | ----- |
