@@ -8,6 +8,7 @@ I'm passionate about software development and continuous learning. I enjoy build
 
 * Spring Security
 * Advanced SQL
+* NoSQL
 * Threads (Virtual and Platform)
 * English (Target: B2) current B1+
 
@@ -24,11 +25,11 @@ I'm passionate about software development and continuous learning. I enjoy build
 
 ## Core Concepts
 
-* Object-Oriented Programming (OOP)
-* Inheritance
-* Polymorphism
-* Interfaces
-* Exception Handling
-* Collections Framework
-* Authentication (JWT)
-* Authorization and Security Filters
+* Spring framework (boot, security, JPA)
+* OOP
+* AOP
+* Data structure
+* Mid level on logic
+* SQL
+* Testing
+* Docker
