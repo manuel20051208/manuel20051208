@@ -12,15 +12,15 @@
 
 <br />
 
-<img src="assets/terminal.svg" alt="About me" width="100%" />
+<img src="terminal.svg" alt="About me" width="100%" />
 
 <br /><br />
 
-<img src="assets/learning.svg" alt="Currently learning" width="100%" />
+<img src="learning.svg" alt="Currently learning" width="100%" />
 
 <br /><br />
 
-<img src="assets/skills.svg" alt="Skill levels" width="100%" />
+<img src="skills.svg" alt="Skill levels" width="100%" />
 
 <br /><br />
 
@@ -34,7 +34,7 @@
 
 <br />
 
-### 📫 Let's Connect
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
@@ -50,7 +50,7 @@ Uncomment this when you have projects to show:
 
 <div align="center">
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 | ------- | ----------- | ----- |
