@@ -9,7 +9,7 @@ I'm passionate about software development and continuous learning. I enjoy build
 * Spring Security
 * Advanced SQL
 * Threads (Virtual and Platform)
-* English (Target: B2)
+* English (Target: B2) current B1+
 
 ## Technologies and Skills
 
