@@ -63,7 +63,8 @@ Passionate about software development and continuous learning. I build applicati
 Admin panel for an E-commerce that centralizes products, orders, customers, coupons and inventory in a single dashboard. It solves the admin's organization problems by replacing spreadsheets and scattered tools with one place to manage the whole operation.
 
 - **Live demo:** [application-biz-admin.vercel.app](https://application-biz-admin.vercel.app/login)
-- **Source code:** [github.com/manuel20051208/ApplicationBizAdmin](https://github.com/manuel20051208/ApplicationBizAdmin)
+- **Frontend code:** [github.com/manuel20051208/ApplicationBizAdmin](https://github.com/manuel20051208/ApplicationBizAdmin)
+- **Backend code:** [github.com/manuel20051208/Api-Project](https://github.com/manuel20051208/Api-Project)
 - **Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, Flyway, SQL
 - **Frontend:** Next.js, React, TypeScript, Tailwind CSS
 - **DevOps:** Docker, CI/CD (GitHub Actions) |
