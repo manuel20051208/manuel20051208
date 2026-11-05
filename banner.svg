@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-label="Manuel Ramos, Java Backend Developer">
+  <title>Manuel Ramos - Java Backend Developer</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="210" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#111c36"/>
+    </linearGradient>
+    <linearGradient id="name" x1="48" y1="0" x2="470" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f89820"/>
+      <stop offset="0.55" stop-color="#6db33f"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f89820"/>
+      <stop offset="0.5" stop-color="#6db33f"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <clipPath id="round">
+      <rect width="900" height="210" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="900" height="210" fill="url(#bg)"/>
+
+    <text x="48" y="82" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="52" font-weight="800" letter-spacing="-1" fill="url(#name)">Manuel Ramos</text>
+
+    <text x="48" y="116" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="20" fill="#cbd5e1">Java Backend Developer</text>
+
+    <g font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" text-anchor="middle">
+      <rect x="48" y="140" width="56" height="26" rx="13" fill="#f89820" fill-opacity="0.12" stroke="#f89820" stroke-opacity="0.6"/>
+      <text x="76" y="157" fill="#f89820">Java</text>
+
+      <rect x="112" y="140" width="102" height="26" rx="13" fill="#6db33f" fill-opacity="0.12" stroke="#6db33f" stroke-opacity="0.6"/>
+      <text x="163" y="157" fill="#6db33f">Spring Boot</text>
+
+      <rect x="222" y="140" width="124" height="26" rx="13" fill="#34d399" fill-opacity="0.12" stroke="#34d399" stroke-opacity="0.6"/>
+      <text x="284" y="157" fill="#34d399">Spring Security</text>
+
+      <rect x="354" y="140" width="52" height="26" rx="13" fill="#38bdf8" fill-opacity="0.12" stroke="#38bdf8" stroke-opacity="0.6"/>
+      <text x="380" y="157" fill="#38bdf8">JPA</text>
+
+      <rect x="414" y="140" width="70" height="26" rx="13" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.6"/>
+      <text x="449" y="157" fill="#a78bfa">Flyway</text>
+
+      <rect x="492" y="140" width="50" height="26" rx="13" fill="#e11d48" fill-opacity="0.12" stroke="#e11d48" stroke-opacity="0.6"/>
+      <text x="517" y="157" fill="#e11d48">SQL</text>
+
+      <rect x="550" y="140" width="72" height="26" rx="13" fill="#2496ed" fill-opacity="0.12" stroke="#2496ed" stroke-opacity="0.6"/>
+      <text x="586" y="157" fill="#2496ed">Docker</text>
+    </g>
+
+    <rect y="206" width="900" height="4" fill="url(#bar)"/>
+  </g>
+
+  <rect x="0.5" y="0.5" width="899" height="209" rx="14" fill="none" stroke="#2a3a5e"/>
+</svg>
