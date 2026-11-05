@@ -10,21 +10,45 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br />
+</div>
 
-<img src="terminal.svg" alt="About me" width="100%" />
+## 👋 About me
 
-<br /><br />
+```text
+manuel_ramos  |  Java backend developer
+```
 
-<img src="learning.svg" alt="Currently learning" width="100%" />
+Passionate about software development and continuous learning. I build applications with Java and I'm exploring modern backend technologies.
 
-<br /><br />
+- 🔭 Currently building backend projects with **Java + Spring Boot**
+- 🌱 Learning **Spring Security**, **advanced SQL**, **NoSQL** and **threads**
+- 🎯 Goal: write clean, well-tested and maintainable code
+- ☕ Always open to learning something new
 
-<img src="skills.svg" alt="Skill levels" width="100%" />
+## 📚 Currently learning
 
-<br /><br />
+| Topic | Focus | Status |
+| ----- | ----- | ------ |
+| Spring Security | Authentication & authorization | 🔄 In progress |
+| Advanced SQL | Queries & optimization | 🔄 In progress |
+| NoSQL | Document databases | 🔄 In progress |
+| Threads | Virtual + platform threads | 🔄 In progress |
+| English | B1+ → B2 | 🔄 In progress |
 
-### 💡 Core Concepts
+## 🛠️ Skill levels
+
+| Skill | Level | Progress |
+| ----- | ----- | -------- |
+| Java | Intermediate | ▰▰▰▱▱ |
+| Spring Boot | Intermediate | ▰▰▰▱▱ |
+| Git | Intermediate | ▰▰▰▱▱ |
+| Maven | Basic | ▰▰▱▱▱ |
+| Spring Security | Basic | ▰▰▱▱▱ |
+| Docker | Basic | ▰▰▱▱▱ |
+| Testing | Basic | ▰▰▱▱▱ |
+| SQL | Beginner | ▰▱▱▱▱ |
+
+## 💡 Core concepts
 
 ![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-F89820?style=for-the-badge)
 ![AOP](https://img.shields.io/badge/Aspect--Oriented%20Programming%20%28AOP%29-6DB33F?style=for-the-badge)
@@ -32,29 +56,21 @@
 ![DS](https://img.shields.io/badge/Data%20Structures-A78BFA?style=for-the-badge)
 ![Logic](https://img.shields.io/badge/Problem%20Solving%20%26%20Logic-F05032?style=for-the-badge)
 
-<br />
-
-### Let's Connect
+## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 
-<br />
+---
 
 <sub>Thanks for stopping by. Let's build something great together. ☕</sub>
-
-</div>
 
 <!--
 Uncomment this when you have projects to show:
 
-<div align="center">
-
-### Featured Projects
+## 🚀 Featured projects
 
 | Project | Description | Stack |
 | ------- | ----------- | ----- |
 | [project-name](https://github.com/YOUR_USERNAME/project-name) | What it does in one line | Java, Spring Boot, PostgreSQL |
-
-</div>
 -->
