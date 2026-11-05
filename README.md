@@ -56,6 +56,18 @@ Passionate about software development and continuous learning. I build applicati
 ![DS](https://img.shields.io/badge/Data%20Structures-A78BFA?style=for-the-badge)
 ![Logic](https://img.shields.io/badge/Problem%20Solving%20%26%20Logic-F05032?style=for-the-badge)
 
+## Featured projects
+
+### Biz Admin — E-commerce admin panel
+
+Admin panel for an E-commerce that centralizes products, orders, customers, coupons and inventory in a single dashboard. It solves the admin's organization problems by replacing spreadsheets and scattered tools with one place to manage the whole operation.
+
+| | |
+| --- | --- |
+| Live demo | [application-biz-admin.vercel.app](https://application-biz-admin.vercel.app/login) |
+| Source code | [github.com/manuel20051208/ApplicationBizAdmin](https://github.com/manuel20051208/ApplicationBizAdmin) |
+| Stack | Next.js, React, TypeScript, Tailwind CSS, Radix UI, Recharts |
+
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-ramos-26065723b)
@@ -63,13 +75,3 @@ Passionate about software development and continuous learning. I build applicati
 ---
 
 <sub>Thanks for stopping by. Let's build something great together.</sub>
-
-<!--
-Uncomment this when you have projects to show:
-
-## Featured projects
-
-| Project | Description | Stack |
-| ------- | ----------- | ----- |
-| [project-name](https://github.com/YOUR_USERNAME/project-name) | What it does in one line | Java, Spring Boot, PostgreSQL |
--->
