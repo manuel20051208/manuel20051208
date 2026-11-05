@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg" alt="Manuel Ramos - Java Backend Developer" width="100%" />
+<img src="header-static.svg" alt="Manuel Ramos - Java Backend Developer" width="100%" />
 
 <br />
 
