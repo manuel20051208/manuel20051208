@@ -65,7 +65,8 @@ Admin panel for an E-commerce that centralizes products, orders, customers, coup
 - **Live demo:** [application-biz-admin.vercel.app](https://application-biz-admin.vercel.app/login)
 - **Source code:** [github.com/manuel20051208/ApplicationBizAdmin](https://github.com/manuel20051208/ApplicationBizAdmin)
 - **Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, Flyway, SQL
-- **Frontend:** Next.js, React, TypeScript, Tailwind CSS |
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+- **DevOps:** Docker, CI/CD (GitHub Actions) |
 
 ## Let's connect
 
