@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Manuel Ramos, Java Backend Developer" xmlns:c2pa="http://c2pa.org/manifest">
+<title>Manuel Ramos, Java Backend Developer</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="900" y2="200" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0f141b"/><stop offset="1" stop-color="#18212d"/></linearGradient>
+<linearGradient id="name" x1="50" y1="0" x2="470" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#f1f5f9"/><stop offset="1" stop-color="#a9cfc2"/></linearGradient>
+<linearGradient id="line" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#d9a86c" stop-opacity="0.9"/><stop offset="0.5" stop-color="#7fb7a4" stop-opacity="0.9"/><stop offset="1" stop-color="#7fb7a4" stop-opacity="0.2"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#7fb7a4" stop-opacity="0.22"/><stop offset="1" stop-color="#7fb7a4" stop-opacity="0"/></radialGradient>
+<clipPath id="round"><rect width="900" height="200" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+<rect width="900" height="200" fill="url(#bg)"/>
+<circle cx="800" cy="70" r="230" fill="url(#glow)"/>
+<text x="880" y="150" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="120" font-weight="700" fill="#ffffff" fill-opacity="0.05">&lt;/&gt;</text>
+<rect x="50" y="48" width="40" height="4" rx="2" fill="#d9a86c"/>
+<text x="50" y="114" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="56" font-weight="800" letter-spacing="-1" fill="#f1f5f9">Manuel <tspan fill="#a9cfc2">Ramos</tspan></text>
+<text x="50" y="154" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="21" fill="#8fa1b3">Java Backend Developer</text>
+<rect y="197" width="900" height="3" fill="url(#line)"/>
+</g>
+<rect x="0.5" y="0.5" width="899" height="199" rx="16" fill="none" stroke="#263243"/>
+</svg>
