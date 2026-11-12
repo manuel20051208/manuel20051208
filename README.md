@@ -4,66 +4,34 @@
 
 </div>
 
-## About
+Backend developer focused on **Java and Spring Boot**. I build secure, tested APIs and take them all the way to production.
 
-Passionate about software development and continuous learning. I build applications with Java and I'm exploring modern backend technologies. My goal is to write clean, well-tested and maintainable code.
+**Stack:** Java · Spring Boot · Spring Security · Spring Data JPA · PostgreSQL · Flyway · Docker · AWS · GitHub Actions · Next.js · TypeScript
 
-## Tech stack
+## Projects
 
-| Area | Technologies |
-| ---- | ------------ |
-| **Backend** | Java, Spring Boot, Spring Security, Spring Data JPA, Maven |
-| **Databases** | SQL, PostgreSQL, Flyway |
-| **Frontend** | Next.js, React, TypeScript, Tailwind CSS |
-| **DevOps & tools** | Docker, AWS EC2, Nginx, GitHub Actions, Git |
+### Habita — Residential complex management
 
-Most comfortable with Java, Spring Boot, Spring Security, SQL and Git. Still growing in Maven, Docker and testing.
+The admin issues monthly fees, residents pay online and book common areas, and guards control who comes in. One system instead of spreadsheets, cash and paper logbooks.
 
-**Foundations:** Object-Oriented Programming · Aspect-Oriented Programming (AOP) · Data Structures · Problem Solving & Logic
+- Online payments with **Wompi**, verified on the server through a signed webhook.
+- **JWT** with rotating refresh tokens and role-based access on every endpoint.
+- **In production:** Docker on AWS EC2 behind Nginx + HTTPS, PostgreSQL on Neon, CI/CD with automatic rollback.
 
-## Currently learning
-
-- **Spring Security** — authentication and authorization
-- **Advanced SQL** — queries and optimization
-- **NoSQL** — document databases
-- **Threads** — virtual and platform threads
-- **English** — B1+ → B2
-
-## Featured projects
-
-### Habita — Residential complex management platform
-
-Platform to run a residential complex (*propiedad horizontal*): the administrator issues each unit's monthly fee, residents pay it online and book common areas, and security staff control who comes in. It replaces spreadsheets, cash payments and paper logbooks with one system for admins, residents and guards.
-
-- **Online payments with Wompi:** the server sets the amount, signs the checkout and only approves a payment after a signed webhook and a direct check with Wompi confirm status, amount and currency.
-- **Security:** JWT access tokens plus rotating refresh tokens, role-based access (`ADMIN`, `RESIDENT`, `GUARD`) on every endpoint.
-- **Business rules:** monthly billing with a nightly job that flags overdue accounts, common-area bookings validated against schedules, capacity and overlaps, guest check-in with notifications.
-- **Deployed in production:** API in Docker on AWS EC2 behind Nginx with HTTPS (Let's Encrypt), PostgreSQL on Neon, frontend on Vercel. Every push to `main` runs the tests and deploys automatically with a health check and rollback.
-
-| | |
-| ---- | ---- |
-| **Backend** | Java 25, Spring Boot 4, Spring Security (OAuth2 + JWT), PostgreSQL, Flyway, native SQL |
-| **Frontend** | Next.js, React, TypeScript, Tailwind CSS |
-| **DevOps** | Docker, AWS EC2, Nginx, Neon, GitHub Actions (CI/CD) |
-
-[Live demo](https://my-project-sable-nine.vercel.app) · [Backend repo](https://github.com/manuel20051208/HorizontalSoftware-Back-End) (with UML, sequence and architecture diagrams) · [Frontend repo](https://github.com/manuel20051208/HorizontalSoftware-Front-End)
+[Live demo](https://my-project-sable-nine.vercel.app) · [Backend](https://github.com/manuel20051208/HorizontalSoftware-Back-End) · [Frontend](https://github.com/manuel20051208/HorizontalSoftware-Front-End)
 
 ### Biz Admin — E-commerce admin panel
 
-Admin panel for an E-commerce that centralizes products, orders, customers, coupons and inventory in a single dashboard. It solves the admin's organization problems by replacing spreadsheets and scattered tools with one place to manage the whole operation.
+Products, orders, customers, coupons and inventory in a single dashboard. Spring Boot API + Next.js frontend, Dockerized with CI/CD.
 
-- **Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, Flyway, SQL
-- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
-- **DevOps:** Docker, CI/CD (GitHub Actions)
+[Live demo](https://application-biz-admin.vercel.app/login) · [Backend](https://github.com/manuel20051208/Api-Project) · [Frontend](https://github.com/manuel20051208/ApplicationBizAdmin)
 
-[Live demo](https://application-biz-admin.vercel.app/login) · [Backend repo](https://github.com/manuel20051208/Api-Project) · [Frontend repo](https://github.com/manuel20051208/ApplicationBizAdmin)
+## Currently learning
 
-## Contact
+Advanced SQL · NoSQL · Virtual threads · English (B1+ → B2)
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-ramos-26065723b)
-
-<sub>Thanks for stopping by. Let's build something great together.</sub>
 
 </div>
