@@ -13,9 +13,9 @@ Passionate about software development and continuous learning. I build applicati
 | Area | Technologies |
 | ---- | ------------ |
 | **Backend** | Java, Spring Boot, Spring Security, Spring Data JPA, Maven |
-| **Databases** | SQL, Flyway |
+| **Databases** | SQL, PostgreSQL, Flyway |
 | **Frontend** | Next.js, React, TypeScript, Tailwind CSS |
-| **DevOps & tools** | Docker, GitHub Actions, Git |
+| **DevOps & tools** | Docker, AWS EC2, Nginx, GitHub Actions, Git |
 
 Most comfortable with Java, Spring Boot, Spring Security, SQL and Git. Still growing in Maven, Docker and testing.
 
@@ -29,7 +29,24 @@ Most comfortable with Java, Spring Boot, Spring Security, SQL and Git. Still gro
 - **Threads** — virtual and platform threads
 - **English** — B1+ → B2
 
-## Featured project
+## Featured projects
+
+### Habita — Residential complex management platform
+
+Platform to run a residential complex (*propiedad horizontal*): the administrator issues each unit's monthly fee, residents pay it online and book common areas, and security staff control who comes in. It replaces spreadsheets, cash payments and paper logbooks with one system for admins, residents and guards.
+
+- **Online payments with Wompi:** the server sets the amount, signs the checkout and only approves a payment after a signed webhook and a direct check with Wompi confirm status, amount and currency.
+- **Security:** JWT access tokens plus rotating refresh tokens, role-based access (`ADMIN`, `RESIDENT`, `GUARD`) on every endpoint.
+- **Business rules:** monthly billing with a nightly job that flags overdue accounts, common-area bookings validated against schedules, capacity and overlaps, guest check-in with notifications.
+- **Deployed in production:** API in Docker on AWS EC2 behind Nginx with HTTPS (Let's Encrypt), PostgreSQL on Neon, frontend on Vercel. Every push to `main` runs the tests and deploys automatically with a health check and rollback.
+
+| | |
+| ---- | ---- |
+| **Backend** | Java 25, Spring Boot 4, Spring Security (OAuth2 + JWT), PostgreSQL, Flyway, native SQL |
+| **Frontend** | Next.js, React, TypeScript, Tailwind CSS |
+| **DevOps** | Docker, AWS EC2, Nginx, Neon, GitHub Actions (CI/CD) |
+
+[Live demo](https://my-project-sable-nine.vercel.app) · [Backend repo](https://github.com/manuel20051208/HorizontalSoftware-Back-End) (with UML, sequence and architecture diagrams) · [Frontend repo](https://github.com/manuel20051208/HorizontalSoftware-Front-End)
 
 ### Biz Admin — E-commerce admin panel
 
